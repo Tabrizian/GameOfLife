@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1421838300 source:c:\users\dellpc\documents\universty\mabani\final project\game of life\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<dos.h>
+
+1421839430 source:c:\users\dellpc\documents\universty\mabani\final project\game of life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<dos.h>
+	"functions.h"
+
+1421840012 c:\users\dellpc\documents\universty\mabani\final project\game of life\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<dos.h>
+
+1421838300 source:c:\users\dellpc\documents\universty\term 1\mabani - dr. bakhshi\final project\game of life\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<dos.h>
+
+1421839430 source:c:\users\dellpc\documents\universty\term 1\mabani - dr. bakhshi\final project\game of life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<dos.h>
+	"functions.h"
+
+1421840012 c:\users\dellpc\documents\universty\term 1\mabani - dr. bakhshi\final project\game of life\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<dos.h>
+
